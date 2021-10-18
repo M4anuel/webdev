@@ -1,0 +1,9 @@
+.thailand{
+    border: 1px solid black;
+}
+#Schweiz{
+    fill: rgb(80,80,180);
+}
+#Schweiz:hover{
+    fill:red;
+}
